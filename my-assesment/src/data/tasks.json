@@ -1,0 +1,58 @@
+[
+  {
+    "id": "12b8a610-503e-498c-b8eb-c27b4c08c920",
+    "longUrl": "https://example.com",
+    "shortUrl": "http://localhost:3002/example",
+    "customAlias": "example",
+    "topic": "general",
+    "createdAt": "2024-12-22T05:14:53.129Z"
+  },
+  {
+    "id": "5970eaf7-e90f-47e3-b4a1-695439d2b296",
+    "longUrl": "https://example.com",
+    "shortUrl": "http://localhost:3002/example",
+    "customAlias": "example",
+    "topic": "general",
+    "createdAt": "2024-12-22T05:38:34.599Z"
+  },
+  {
+    "id": "438421cd-b5f4-467d-930d-3724eb352b94",
+    "longUrl": "https://www.example.com/very/long/url/for/test",
+    "shortUrl": "http://localhost:3002/exampleAlias",
+    "customAlias": "exampleAlias",
+    "topic": "exampleTopic",
+    "createdAt": "2025-01-09T16:37:04.675Z"
+  },
+  {
+    "id": "510ca95d-fe7b-45e4-a42f-f48bf54fd6ff",
+    "longUrl": "https://www.example.com/very/long/url/for/test",
+    "shortUrl": "http://localhost:3002/exampleAlias",
+    "customAlias": "exampleAlias",
+    "topic": "exampleTopic",
+    "createdAt": "2025-01-09T17:09:12.202Z"
+  },
+  {
+    "id": "542eff82-9c52-463b-be4a-dc384dbb2b76",
+    "longUrl": "https://www.example.com/very/long/url/for/test",
+    "shortUrl": "http://localhost:3002/exampleAlias",
+    "customAlias": "exampleAlias",
+    "topic": "exampleTopic",
+    "createdAt": "2025-01-09T17:10:16.678Z"
+  },
+  {
+    "id": "40fe0370-283e-4fab-8b75-45a04a473ab7",
+    "longUrl": "https://www.example.com/very/long/url/for/test",
+    "shortUrl": "http://localhost:3002/exampleAlias",
+    "customAlias": "exampleAlias",
+    "topic": "exampleTopic",
+    "createdAt": "2025-01-09T17:58:06.211Z"
+  },
+  {
+    "id": "3ae384de-9cf6-4349-9fbb-8035dfa7f71f",
+    "longUrl": "https://www.example.com/very/long/url/for/test",
+    "shortUrl": "http://localhost:3002/exampleAlias",
+    "customAlias": "exampleAlias",
+    "topic": "exampleTopic",
+    "createdAt": "2025-01-09T18:01:30.702Z"
+  }
+]
